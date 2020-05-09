@@ -1,0 +1,65 @@
+/*============
+Home Page
+=============*/
+
+
+/*============
+Header
+=============*/
+.mydiv1 a{color:black; font-size: 0.89rem; font-weight: 600;}
+.mydiv1 {border-bottom:solid 1px silver; background-color:ghostwhite;}
+.a1{font-size: 3rem;}
+.container-fluid{padding-left: 0;padding-right: 0;}
+nav ul li a{font-size: 1.1rem;font-weight: 600;}
+
+
+
+/*============
+Footer
+=============*/
+.c1{font-size: 30px; color:silver;}
+.footer1{background-color: rgb(20, 30, 48);color: white;}
+.footer1 a{color: white;}
+.footer2{background-color: black;}
+.footer2{color: white;}
+
+/*============
+section1(Img part)
+=============*/
+.sec1{color: rgb(31, 27, 27);}
+.sec1 a{color:rgb(31, 27, 27);}
+
+
+/*============
+section3
+=============*/
+
+.sec3{background-color: #1B1464;}
+.mydiv3{color:white}
+
+
+/*============
+section5
+=============*/
+.sec5 .form-control{height: 50px;border-color: transparent; border-radius: 40px 0 0 40px;}
+.sec5{background-color: #1B1464;color: white;}
+.sec5 .btn{height: 50px; border-radius: 0 40px 40px 0;}
+
+
+/*============
+section5
+=============*/
+.sec6 a{font-weight: bold;}
+
+
+
+
+
+
+
+
+
+
+
+
+
