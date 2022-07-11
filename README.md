@@ -1,3 +1,3 @@
 Spooky Startup Website
 
-Project Link - https://www.spooky1234.ml
+Project Link - https://boring-elion-69c48c.netlify.app/
